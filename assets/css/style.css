@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+body{
+    background-image: url('../images/19333445.jpg');
+    background-size: 960px;
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+    margin-top: 30px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    border: 1px solid #111;
+    border-radius: 20px;
+    background-color: seashell;
+}
+.title_name {
+    text-align: center;
+    font-size: 40px;
+}
+.photo {
+    margin-top: 30px;
+    text-align: center;
+}
+.photo img {
+    width: 200px;
+}
+.lesson {
+    width: 400px;
+    margin: auto;
+    margin-top: 20px;
+    text-align: center;
+    color: rgb(110, 110, 110);
+}
+hr {
+    width: 70%;
+    margin: auto;
+    margin-top: 20px;
+    border: 1px solid rgb(221, 221, 221);
+    background-color: rgb(221, 221, 221);
+
+}
+.content {
+    width: 600px;
+    margin: auto;
+    margin-top: 30px;
+    text-align: justify;
+}
+.content p {
+    margin-bottom: 10px;
+}
+.footer {
+    font-size: 13px;
+    width: 100%;
+    margin-top: 10px;
+    text-align: center;
+}
+.footer a {
+    color: #111;
+}
